@@ -2,18 +2,18 @@
 
 ## Similarity endpoint
 
-https://api.music.keio.moe/experiments/world_music_similarity/export
+https://api.music.keio.moe/experiments/world_music_workshop_similarity/export
 
 
 ## Rank endpoint
 
-https://api.music.keio.moe/experiments/world_music_rank/export
+https://api.music.keio.moe/experiments/world_music_workshop_rank/export
 
 
 ## Evaluation endpoint
 
 
-https://api.music.keio.moe/experiments/world_music_evaluation/export
+https://api.music.keio.moe/experiments/world_music_workshop_evaluation/export
 
 
 ## Bollywood endpoint
