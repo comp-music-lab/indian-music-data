@@ -58,3 +58,5 @@ https://api.music.keio.moe/experiments/world_music_workshop_evaluation/export
 ## Bollywood endpoint
 
 https://api.music.keio.moe/experiments/indian_music_evaluation/export
+
+sudo service docker start
