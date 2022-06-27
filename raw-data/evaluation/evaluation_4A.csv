@@ -1,6 +1,0 @@
-song_id,overlap,creativity,likeness,tempo,consonance,emotion,decoration,range,quality,rhythm,excitingness,groove,timbre,edited
-0,50,0,50,0,100,50,50,0,50,100,50,0,50,TRUE
-1,0,0,0,50,50,50,50,0,50,100,100,50,0,TRUE
-2,0,50,50,0,50,50,50,50,0,50,0,0,0,TRUE
-3,100,0,50,50,100,50,50,50,50,100,50,50,100,TRUE
-4,100,50,50,50,50,50,0,0,50,100,50,50,50,TRUE

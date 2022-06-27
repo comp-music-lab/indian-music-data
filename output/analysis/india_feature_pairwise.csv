@@ -1,0 +1,14 @@
+Feature,r,p-value
+Vocal Texture,0.1,0.44
+Ornamentation,0.25,0.05
+Grooviness,0.12,0.36
+Familiarity,0.21,0.11
+Liking,0.19,0.14
+Consonance,0.25,0.05
+Valence,0.12,0.36
+Excitement,-0.06,0.67
+Vocal Range,0.06,0.67
+Sound Quality,0.18,0.17
+Tempo,0.12,0.36
+Rhythmic Regularity,0.0,0.99
+Vocal Tension,-0.06,0.64
