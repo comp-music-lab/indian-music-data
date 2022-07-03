@@ -1,0 +1,313 @@
+,kappa,region,feature,group
+0,0.89,North Musician,Vocal Texture,0
+1,1.0,North Musician,Vocal Texture,1
+2,0.86,North Musician,Vocal Texture,2
+3,0.57,North Musician,Vocal Texture,3
+4,0.89,North Musician,Vocal Texture,4
+5,0.55,North Musician,Vocal Texture,5
+6,0.62,North Non-Musician,Vocal Texture,0
+7,1.0,North Non-Musician,Vocal Texture,1
+8,1.0,North Non-Musician,Vocal Texture,2
+9,0.48,North Non-Musician,Vocal Texture,3
+10,0.75,North Non-Musician,Vocal Texture,4
+11,0.07,North Non-Musician,Vocal Texture,5
+12,0.89,South Musician,Vocal Texture,0
+13,1.0,South Musician,Vocal Texture,1
+14,1.0,South Musician,Vocal Texture,2
+15,0.67,South Musician,Vocal Texture,3
+16,0.57,South Musician,Vocal Texture,4
+17,0.0,South Musician,Vocal Texture,5
+18,0.86,South Non-Musician,Vocal Texture,0
+19,0.78,South Non-Musician,Vocal Texture,1
+20,0.4,South Non-Musician,Vocal Texture,2
+21,0.48,South Non-Musician,Vocal Texture,3
+22,0.88,South Non-Musician,Vocal Texture,4
+23,0.78,South Non-Musician,Vocal Texture,5
+24,1.0,North Musician,Familiarity,0
+25,0.0,North Musician,Familiarity,1
+26,0.0,North Musician,Familiarity,2
+27,1.0,North Musician,Familiarity,3
+28,0.0,North Musician,Familiarity,4
+29,0.0,North Musician,Familiarity,5
+30,0.0,North Non-Musician,Familiarity,0
+31,0.55,North Non-Musician,Familiarity,1
+32,0.0,North Non-Musician,Familiarity,2
+33,0.58,North Non-Musician,Familiarity,3
+34,0.0,North Non-Musician,Familiarity,4
+35,0.0,North Non-Musician,Familiarity,5
+36,1.0,South Musician,Familiarity,0
+37,0.0,South Musician,Familiarity,1
+38,0.0,South Musician,Familiarity,2
+39,0.35,South Musician,Familiarity,3
+40,0.0,South Musician,Familiarity,4
+41,0.0,South Musician,Familiarity,5
+42,-0.25,South Non-Musician,Familiarity,0
+43,0.71,South Non-Musician,Familiarity,1
+44,0.0,South Non-Musician,Familiarity,2
+45,0.58,South Non-Musician,Familiarity,3
+46,0.0,South Non-Musician,Familiarity,4
+47,0.0,South Non-Musician,Familiarity,5
+48,0.55,North Musician,Liking,0
+49,0.38,North Musician,Liking,1
+50,0.05,North Musician,Liking,2
+51,0.25,North Musician,Liking,3
+52,-0.09,North Musician,Liking,4
+53,-0.36,North Musician,Liking,5
+54,0.52,North Non-Musician,Liking,0
+55,0.69,North Non-Musician,Liking,1
+56,0.55,North Non-Musician,Liking,2
+57,0.55,North Non-Musician,Liking,3
+58,-0.11,North Non-Musician,Liking,4
+59,-0.36,North Non-Musician,Liking,5
+60,0.0,South Musician,Liking,0
+61,0.48,South Musician,Liking,1
+62,0.76,South Musician,Liking,2
+63,0.17,South Musician,Liking,3
+64,-0.67,South Musician,Liking,4
+65,0.0,South Musician,Liking,5
+66,0.17,South Non-Musician,Liking,0
+67,0.29,South Non-Musician,Liking,1
+68,0.44,South Non-Musician,Liking,2
+69,0.4,South Non-Musician,Liking,3
+70,0.0,South Non-Musician,Liking,4
+71,0.26,South Non-Musician,Liking,5
+72,0.67,North Musician,Tempo,0
+73,0.8,North Musician,Tempo,1
+74,0.67,North Musician,Tempo,2
+75,0.4,North Musician,Tempo,3
+76,0.17,North Musician,Tempo,4
+77,0.33,North Musician,Tempo,5
+78,0.09,North Non-Musician,Tempo,0
+79,0.5,North Non-Musician,Tempo,1
+80,0.09,North Non-Musician,Tempo,2
+81,0.86,North Non-Musician,Tempo,3
+82,0.62,North Non-Musician,Tempo,4
+83,0.33,North Non-Musician,Tempo,5
+84,0.17,South Musician,Tempo,0
+85,0.86,South Musician,Tempo,1
+86,1.0,South Musician,Tempo,2
+87,0.0,South Musician,Tempo,3
+88,0.29,South Musician,Tempo,4
+89,0.0,South Musician,Tempo,5
+90,-0.67,South Non-Musician,Tempo,0
+91,0.67,South Non-Musician,Tempo,1
+92,0.8,South Non-Musician,Tempo,2
+93,0.4,South Non-Musician,Tempo,3
+94,-0.06,South Non-Musician,Tempo,4
+95,0.0,South Non-Musician,Tempo,5
+96,0.55,North Musician,Consonance,0
+97,0.67,North Musician,Consonance,1
+98,-0.07,North Musician,Consonance,2
+99,0.35,North Musician,Consonance,3
+100,-0.49,North Musician,Consonance,4
+101,-0.36,North Musician,Consonance,5
+102,0.29,North Non-Musician,Consonance,0
+103,0.8,North Non-Musician,Consonance,1
+104,0.67,North Non-Musician,Consonance,2
+105,0.57,North Non-Musician,Consonance,3
+106,0.44,North Non-Musician,Consonance,4
+107,0.0,North Non-Musician,Consonance,5
+108,0.0,South Musician,Consonance,0
+109,0.29,South Musician,Consonance,1
+110,0.4,South Musician,Consonance,2
+111,0.4,South Musician,Consonance,3
+112,-0.4,South Musician,Consonance,4
+113,0.0,South Musician,Consonance,5
+114,0.17,South Non-Musician,Consonance,0
+115,0.69,South Non-Musician,Consonance,1
+116,0.29,South Non-Musician,Consonance,2
+117,0.4,South Non-Musician,Consonance,3
+118,0.0,South Non-Musician,Consonance,4
+119,0.29,South Non-Musician,Consonance,5
+120,0.17,North Musician,Valence,0
+121,0.76,North Musician,Valence,1
+122,0.4,North Musician,Valence,2
+123,0.21,North Musician,Valence,3
+124,0.0,North Musician,Valence,4
+125,-0.36,North Musician,Valence,5
+126,0.76,North Non-Musician,Valence,0
+127,0.5,North Non-Musician,Valence,1
+128,-0.11,North Non-Musician,Valence,2
+129,1.0,North Non-Musician,Valence,3
+130,0.76,North Non-Musician,Valence,4
+131,0.0,North Non-Musician,Valence,5
+132,-0.43,South Musician,Valence,0
+133,0.5,South Musician,Valence,1
+134,0.0,South Musician,Valence,2
+135,0.67,South Musician,Valence,3
+136,0.0,South Musician,Valence,4
+137,0.0,South Musician,Valence,5
+138,1.0,South Non-Musician,Valence,0
+139,0.62,South Non-Musician,Valence,1
+140,0.33,South Non-Musician,Valence,2
+141,0.0,South Non-Musician,Valence,3
+142,0.29,South Non-Musician,Valence,4
+143,0.29,South Non-Musician,Valence,5
+144,0.36,North Musician,Ornamentation,0
+145,0.0,North Musician,Ornamentation,1
+146,0.05,North Musician,Ornamentation,2
+147,0.25,North Musician,Ornamentation,3
+148,0.09,North Musician,Ornamentation,4
+149,0.55,North Musician,Ornamentation,5
+150,0.21,North Non-Musician,Ornamentation,0
+151,0.8,North Non-Musician,Ornamentation,1
+152,-0.92,North Non-Musician,Ornamentation,2
+153,0.55,North Non-Musician,Ornamentation,3
+154,-0.09,North Non-Musician,Ornamentation,4
+155,-0.43,North Non-Musician,Ornamentation,5
+156,0.52,South Musician,Ornamentation,0
+157,0.0,South Musician,Ornamentation,1
+158,0.17,South Musician,Ornamentation,2
+159,0.29,South Musician,Ornamentation,3
+160,-0.57,South Musician,Ornamentation,4
+161,0.0,South Musician,Ornamentation,5
+162,0.57,South Non-Musician,Ornamentation,0
+163,-0.4,South Non-Musician,Ornamentation,1
+164,0.4,South Non-Musician,Ornamentation,2
+165,-0.5,South Non-Musician,Ornamentation,3
+166,-0.19,South Non-Musician,Ornamentation,4
+167,0.55,South Non-Musician,Ornamentation,5
+168,0.29,North Musician,Vocal Range,0
+169,0.29,North Musician,Vocal Range,1
+170,0.21,North Musician,Vocal Range,2
+171,0.57,North Musician,Vocal Range,3
+172,-0.13,North Musician,Vocal Range,4
+173,0.4,North Musician,Vocal Range,5
+174,-0.36,North Non-Musician,Vocal Range,0
+175,0.67,North Non-Musician,Vocal Range,1
+176,0.29,North Non-Musician,Vocal Range,2
+177,0.62,North Non-Musician,Vocal Range,3
+178,-0.39,North Non-Musician,Vocal Range,4
+179,0.0,North Non-Musician,Vocal Range,5
+180,-0.11,South Musician,Vocal Range,0
+181,0.14,South Musician,Vocal Range,1
+182,-0.29,South Musician,Vocal Range,2
+183,0.21,South Musician,Vocal Range,3
+184,0.29,South Musician,Vocal Range,4
+185,0.0,South Musician,Vocal Range,5
+186,0.8,South Non-Musician,Vocal Range,0
+187,0.0,South Non-Musician,Vocal Range,1
+188,-0.67,South Non-Musician,Vocal Range,2
+189,-0.07,South Non-Musician,Vocal Range,3
+190,0.0,South Non-Musician,Vocal Range,4
+191,-0.41,South Non-Musician,Vocal Range,5
+192,0.67,North Musician,Sound Quality,0
+193,0.4,North Musician,Sound Quality,1
+194,-0.43,North Musician,Sound Quality,2
+195,0.0,North Musician,Sound Quality,3
+196,0.0,North Musician,Sound Quality,4
+197,0.55,North Musician,Sound Quality,5
+198,0.17,North Non-Musician,Sound Quality,0
+199,0.5,North Non-Musician,Sound Quality,1
+200,0.29,North Non-Musician,Sound Quality,2
+201,-0.21,North Non-Musician,Sound Quality,3
+202,-0.67,North Non-Musician,Sound Quality,4
+203,0.55,North Non-Musician,Sound Quality,5
+204,-0.15,South Musician,Sound Quality,0
+205,0.17,South Musician,Sound Quality,1
+206,0.29,South Musician,Sound Quality,2
+207,0.0,South Musician,Sound Quality,3
+208,-0.36,South Musician,Sound Quality,4
+209,0.0,South Musician,Sound Quality,5
+210,0.29,South Non-Musician,Sound Quality,0
+211,0.55,South Non-Musician,Sound Quality,1
+212,0.0,South Non-Musician,Sound Quality,2
+213,0.05,South Non-Musician,Sound Quality,3
+214,0.55,South Non-Musician,Sound Quality,4
+215,-0.67,South Non-Musician,Sound Quality,5
+216,0.58,North Musician,Rhythmic Regularity,0
+217,0.8,North Musician,Rhythmic Regularity,1
+218,0.0,North Musician,Rhythmic Regularity,2
+219,-0.43,North Musician,Rhythmic Regularity,3
+220,0.04,North Musician,Rhythmic Regularity,4
+221,0.32,North Musician,Rhythmic Regularity,5
+222,-0.4,North Non-Musician,Rhythmic Regularity,0
+223,0.5,North Non-Musician,Rhythmic Regularity,1
+224,0.33,North Non-Musician,Rhythmic Regularity,2
+225,-0.15,North Non-Musician,Rhythmic Regularity,3
+226,-0.07,North Non-Musician,Rhythmic Regularity,4
+227,0.14,North Non-Musician,Rhythmic Regularity,5
+228,0.48,South Musician,Rhythmic Regularity,0
+229,0.0,South Musician,Rhythmic Regularity,1
+230,0.52,South Musician,Rhythmic Regularity,2
+231,0.44,South Musician,Rhythmic Regularity,3
+232,0.67,South Musician,Rhythmic Regularity,4
+233,0.0,South Musician,Rhythmic Regularity,5
+234,-0.36,South Non-Musician,Rhythmic Regularity,0
+235,0.4,South Non-Musician,Rhythmic Regularity,1
+236,0.0,South Non-Musician,Rhythmic Regularity,2
+237,0.33,South Non-Musician,Rhythmic Regularity,3
+238,-0.05,South Non-Musician,Rhythmic Regularity,4
+239,0.0,South Non-Musician,Rhythmic Regularity,5
+240,0.0,North Musician,Excitement,0
+241,0.67,North Musician,Excitement,1
+242,0.0,North Musician,Excitement,2
+243,0.35,North Musician,Excitement,3
+244,-0.44,North Musician,Excitement,4
+245,0.0,North Musician,Excitement,5
+246,0.0,North Non-Musician,Excitement,0
+247,0.67,North Non-Musician,Excitement,1
+248,-0.5,North Non-Musician,Excitement,2
+249,0.67,North Non-Musician,Excitement,3
+250,0.0,North Non-Musician,Excitement,4
+251,0.0,North Non-Musician,Excitement,5
+252,0.0,South Musician,Excitement,0
+253,0.29,South Musician,Excitement,1
+254,0.0,South Musician,Excitement,2
+255,0.4,South Musician,Excitement,3
+256,0.0,South Musician,Excitement,4
+257,0.0,South Musician,Excitement,5
+258,0.17,South Non-Musician,Excitement,0
+259,-0.25,South Non-Musician,Excitement,1
+260,0.0,South Non-Musician,Excitement,2
+261,0.5,South Non-Musician,Excitement,3
+262,0.0,South Non-Musician,Excitement,4
+263,-0.67,South Non-Musician,Excitement,5
+264,0.62,North Musician,Grooviness,0
+265,0.55,North Musician,Grooviness,1
+266,0.0,North Musician,Grooviness,2
+267,0.55,North Musician,Grooviness,3
+268,-0.25,North Musician,Grooviness,4
+269,0.17,North Musician,Grooviness,5
+270,0.55,North Non-Musician,Grooviness,0
+271,0.55,North Non-Musician,Grooviness,1
+272,0.0,North Non-Musician,Grooviness,2
+273,0.78,North Non-Musician,Grooviness,3
+274,0.55,North Non-Musician,Grooviness,4
+275,0.0,North Non-Musician,Grooviness,5
+276,-0.25,South Musician,Grooviness,0
+277,0.75,South Musician,Grooviness,1
+278,0.19,South Musician,Grooviness,2
+279,0.85,South Musician,Grooviness,3
+280,0.0,South Musician,Grooviness,4
+281,0.0,South Musician,Grooviness,5
+282,0.58,South Non-Musician,Grooviness,0
+283,0.69,South Non-Musician,Grooviness,1
+284,-0.15,South Non-Musician,Grooviness,2
+285,0.58,South Non-Musician,Grooviness,3
+286,0.0,South Non-Musician,Grooviness,4
+287,0.29,South Non-Musician,Grooviness,5
+288,0.55,North Musician,Vocal Tension,0
+289,0.44,North Musician,Vocal Tension,1
+290,0.0,North Musician,Vocal Tension,2
+291,0.57,North Musician,Vocal Tension,3
+292,0.0,North Musician,Vocal Tension,4
+293,0.17,North Musician,Vocal Tension,5
+294,0.62,North Non-Musician,Vocal Tension,0
+295,0.07,North Non-Musician,Vocal Tension,1
+296,-0.4,North Non-Musician,Vocal Tension,2
+297,0.33,North Non-Musician,Vocal Tension,3
+298,-0.45,North Non-Musician,Vocal Tension,4
+299,0.26,North Non-Musician,Vocal Tension,5
+300,0.29,South Musician,Vocal Tension,0
+301,0.62,South Musician,Vocal Tension,1
+302,-0.11,South Musician,Vocal Tension,2
+303,1.0,South Musician,Vocal Tension,3
+304,-0.43,South Musician,Vocal Tension,4
+305,0.0,South Musician,Vocal Tension,5
+306,0.0,South Non-Musician,Vocal Tension,0
+307,0.25,South Non-Musician,Vocal Tension,1
+308,0.0,South Non-Musician,Vocal Tension,2
+309,0.4,South Non-Musician,Vocal Tension,3
+310,0.85,South Non-Musician,Vocal Tension,4
+311,0.29,South Non-Musician,Vocal Tension,5
